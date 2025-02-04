@@ -1,7 +1,3 @@
-Below is a sample `README.md` file for your GitHub repository. This file provides an overview of the project, instructions for setting it up, and details about how to run the code.
-
----
-
 # Compounded Words Finder
 
 This Java program identifies the longest and second longest compounded words from a sorted list of words. A compounded word is one that can be constructed by concatenating shorter words also found in the same list.
