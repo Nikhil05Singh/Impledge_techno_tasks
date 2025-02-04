@@ -36,7 +36,7 @@ For each input file, the program outputs:
 ### Step 1: Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone 
+git clone https://github.com/Nikhil05Singh/Impledge_techno_tasks.git
 cd compounded-words-finder
 ```
 
@@ -125,15 +125,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Author
-[Your Name]  
-[Your GitHub Profile Link]
+Nikhil Singh
+GitHub Profile:- https://github.com/Nikhil05Singh
 
 ---
-
-This `README.md` provides a clear and concise guide for users to understand, set up, and run your project. You can customize it further to include additional details or links to related resources. Let me know if you need further assistance!
